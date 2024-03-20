@@ -1,8 +1,4 @@
 <h1 align="center">Back End Vaquinha</h1>
-<p align="center">Lorem ipsum!</p>
-<h4 align="center">
-	Developing...  🚧
-</h4>
 
 ## 💻 About
 Description
