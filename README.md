@@ -15,7 +15,6 @@ Description
 Before you begin, you will need to have the following tools installed on your machine:
 <a href="https://git-scm.com">Git</a>, <a href="">NPM</a>, <a href="https://nodejs.org/en/">Node.js</a>, <a href="https://docs.nestjs.com/cli/overview">NestJS</a>.
 
-💡 Use only yarn as package manager.
 
 #### Running the application
 
