@@ -5,7 +5,7 @@
 </h4>
 
 ## 💻 About
-Descrição
+Description
 
 ---
 
@@ -13,7 +13,7 @@ Descrição
 
 ### Pre-requisites
 Before you begin, you will need to have the following tools installed on your machine:
-<a href="https://git-scm.com">Git</a>, <a href="https://yarnpkg.com/getting-started/install">Yarn</a>, <a href="https://nodejs.org/en/">Node.js</a>.
+<a href="https://git-scm.com">Git</a>, <a href="">NPM</a>, <a href="https://nodejs.org/en/">Node.js</a>, <a href="https://docs.nestjs.com/cli/overview">NestJS</a>.
 
 💡 Use only yarn as package manager.
 
@@ -24,9 +24,13 @@ Before you begin, you will need to have the following tools installed on your ma
 npm install
 
 # Run the application in development mode
-
+npm start
 ```
 ---
+
+## ⚙️ Configuration
+- Create a .env file in the project root directory.
+- Copy the contents of the .env.example file to the new .env file.
 
 ## ⚒️ Tech Stack
 
@@ -65,4 +69,4 @@ In the project, ESLint and Prettier tools were used. The installation and config
 
 ## ✒️ Rotas
 
-link do swagger? 
+Swagger link? 
